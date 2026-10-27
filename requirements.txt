@@ -1,0 +1,9 @@
+PyMuPDF
+img2pdf
+Pillow
+pdf2docx
+pandas
+openpyxl
+pywin32
+PyQt6
+keyboard
